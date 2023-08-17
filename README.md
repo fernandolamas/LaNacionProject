@@ -6,6 +6,15 @@ En la solución en .NET 6.0 C# encontrará:
 1. Un proyecto API con un controlador, un servicio y modelos.
 2. Un proyecto que contiene tests unitarios sobre el controlador y el servicios.
 
+## Indice: 
+
+[Pre-requisitos](#pre-requisitos)<br>
+[Proyecto API (LaNacionProject)](#proyecto-api-lanacionproject)<br>
+[Puesta en marcha del proyecto API](#puesta-en-marcha-del-proyecto-api)<br>
+[Proyecto Tests Unitarios (LaNacionProjectTest)](#proyecto-tests-unitarios-lanacionprojecttest)<br>
+[Problemas conocidos sobre el proyecto API (LaNacionProject)](#problemas-conocidos-sobre-el-proyecto-api-lanacionproject)<br>
+[Aclaraciones](#aclaraciones)
+
 ## Pre-requisitos
 
 Para ejecutar el proyecto ud. necesitará:
